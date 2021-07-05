@@ -5,6 +5,9 @@
 📸 Amateur photographer
 
 🐈 Person
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
+
 <!--
 **ross-moug/ross-moug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
